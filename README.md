@@ -11,6 +11,6 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 
 #### Credits:
 
-All the assignments come from [Coursera][machine-learning-data-analysis].
+All the assignments come from [Coursera][machine-learning].
 
 [machine-learning]: https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie
