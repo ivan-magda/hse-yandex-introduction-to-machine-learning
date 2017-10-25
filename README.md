@@ -1,1 +1,1 @@
-# hse-yandex-introduction-to-machine-learning
+# Introduction to Machine Learning
