@@ -10,6 +10,8 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 - Week 1
 	- [NumPy: Vectors and Matrix](./numpy-vectors-matrix)
 - [Presentations](./presentations)
+- Resources
+	- [A Crash Course in Python for Scientists](http://nbviewer.jupyter.org/gist/rpmuller/5920182)
 
 #### Credits:
 
