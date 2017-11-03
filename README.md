@@ -9,6 +9,9 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 #### Subdomains:
 - Week 1
 	- [NumPy: Vectors and Matrix](./numpy-vectors-matrix)
+	- [Assignment: Preprocessing data in Pandas](./assignment-pandas-data-preprocessing)
+- Assignments:
+	- [Preprocessing data in Pandas](./assignment-pandas-data-preprocessing)
 - Presentations
 	- [Problem Statement of the Machine Learning](./presentations/1.1-problem-statement-machine-learning.pdf)
 	- [Machine Learning Applications - Part 1](./presentations/1.3-machine-learning-applications-1.pdf)
