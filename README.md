@@ -19,6 +19,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 	- [Machine Learning Applications Overfitting](./presentations/1.4-machine-learning-overfitting.pdf)
 	- [Machine Learning Applications Decision Trees](./presentations/1.5-decision-trees.pdf)
 	- [Algorithms of Constructing a Decision Tree](./presentations/1.6-algorithms-constructing-decision-tree.pdf)
+	- [The Missing Data Treatment. The Advantages and Disadvantages of Critical Trees.](./presentations/1.7-missing-data-treatment.pdf)
 - Resources
 	- [ML Course at HSE](https://github.com/esokolov/ml-course-hse)
 	- [A Crash Course in Python for Scientists](http://nbviewer.jupyter.org/gist/rpmuller/5920182)
