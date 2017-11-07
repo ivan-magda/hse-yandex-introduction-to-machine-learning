@@ -26,7 +26,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 	- [The Missing Data Treatment. The Advantages and Disadvantages of Critical Trees.](./presentations/1.7-missing-data-treatment.pdf)
 	- [How to Troubleshoot Deficiencies of Decision Trees](./presentations/1.8-how-troubleshoot-deficiencies-decision-trees.pdf)
 - Resources
-	- [ML Course at HSE](https://github.com/esokolov/ml-course-hse)
+	- [ML Course HSE](https://github.com/esokolov/ml-course-hse)
 	- [A Crash Course in Python for Scientists](http://nbviewer.jupyter.org/gist/rpmuller/5920182)
 
 #### Credits:
