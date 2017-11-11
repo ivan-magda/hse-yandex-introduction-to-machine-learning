@@ -33,6 +33,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [K-Nearest Neighbors](./presentations/2.1-k-nearest-neighbors.pdf)
 		- [Parzen-Window Density Estimation](./presentations/2.2-parzen-window-density-estimation.pdf)
 		- [Metric Classification Methods for Reconstructing Regression](./presentations/2.3-metric-classification-methods-reconstructing-regression.pdf)
+		- [Outlier Detection Methods](./presentations/2.4-outlier-detection-methods.pdf)
 
 #### Credits:
 
