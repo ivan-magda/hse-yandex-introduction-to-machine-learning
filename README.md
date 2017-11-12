@@ -11,9 +11,12 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 	- [NumPy: Vectors and Matrix](./numpy-vectors-matrix)
 	- [Assignment: Preprocessing data in Pandas](./assignment-pandas-data-preprocessing)
 	- [Assignment: The Importance of Signs](./assignment-importance)
+- Week 2
+	- [Assignment: Neighbours](./assignment-neighbours)
 - Assignments:
 	- [Preprocessing data in Pandas](./assignment-pandas-data-preprocessing)
 	- [Assignment: The Importance of Signs](./assignment-importance)
+	- [Assignment: Neighbours](./assignment-neighbours)
 - Notes:
 	- [Lecture Notes](./NOTES.md)
 - Resources
