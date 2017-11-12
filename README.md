@@ -13,10 +13,12 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 	- [Assignment: The Importance of Signs](./assignment-importance)
 - Week 2
 	- [Assignment: Neighbours](./assignment-neighbours)
+	- [Assignment: Metric Tuning](./assignment-metric-tuning)
 - Assignments:
 	- [Preprocessing data in Pandas](./assignment-pandas-data-preprocessing)
 	- [Assignment: The Importance of Signs](./assignment-importance)
 	- [Assignment: Neighbours](./assignment-neighbours)
+	- [Assignment: Metric Tuning](./assignment-metric-tuning)
 - Notes:
 	- [Lecture Notes](./NOTES.md)
 - Resources
