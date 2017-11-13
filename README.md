@@ -39,9 +39,10 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [Parzen-Window Density Estimation](./presentations/2.2-parzen-window-density-estimation.pdf)
 		- [Metric Classification Methods for Reconstructing Regression](./presentations/2.3-metric-classification-methods-reconstructing-regression.pdf)
 		- [Outlier Detection Methods](./presentations/2.4-outlier-detection-methods.pdf)
-		- [The Method of Stochastic Gradient. Statement of the Problem](./presentations/2.5-method-stochastic-gradient-statement-problem.pdf)
+		- [Method of Stochastic Gradient. Statement of the Problem](./presentations/2.5-method-stochastic-gradient-statement-problem.pdf)
 		- [Gradient Methods a Numerical Minimization Algorithm SG](./presentations/2.6-gradient-methods-minimization-SG.pdf)
 		- [SAG Algorithm](./presentations/2.7-SAG-algorithm.pdf)
+		- [Method of Stochastic Gradient. Pros and Cons.](./presentations/2.8-stochastic-gradient-pros-cons.pdf)
 
 #### Credits:
 
