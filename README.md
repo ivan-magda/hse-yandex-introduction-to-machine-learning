@@ -40,6 +40,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [Metric Classification Methods for Reconstructing Regression](./presentations/2.3-metric-classification-methods-reconstructing-regression.pdf)
 		- [Outlier Detection Methods](./presentations/2.4-outlier-detection-methods.pdf)
 		- [The Method of Stochastic Gradient. Statement of the Problem](./presentations/2.5-method-stochastic-gradient-statement-problem.pdf)
+		- [Gradient Methods a Numerical Minimization Algorithm SG](./presentations/2.6-gradient-methods-minimization-SG.pdf)
 
 #### Credits:
 
