@@ -8,7 +8,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 
 #### Subdomains:
 - Week 1
-	- [NumPy: Vectors and Matrix](./numpy-vectors-matrix)
+	- [NumPy: Vectors and Matrix](./numpy-vectors-matrix/solution.ipynb)
 	- [Assignment: Preprocessing data in Pandas](./assignment-pandas-data-preprocessing)
 	- [Assignment: The Importance of Signs](./assignment-importance)
 - Week 2
