@@ -59,7 +59,8 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [Logistic Regression](./presentations/3.3-logistic-regression.pdf)
 		- [Logistic Regression Use Case](./presentations/3.4-logistic-regression-use.pdf)
 		- [Logistic Regression Regularisation](./presentations/3.5-logistic-regression-regularization.pdf)
-		- [Classification Metrics](./presentations/3.6-classification-metrics.pdf)
+		- [Classification Metrics-1](./presentations/3.6-classification-metrics.pdf)
+		- [Classification Metrics-2](./presentations/3.7-classification-metrics.pdf)
 
 #### Credits:
 
