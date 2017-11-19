@@ -56,6 +56,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [SVM: Nonlinear Case](./presentations/3.2-svm-nonlinear-case.pdf)
 		- [Logistic Regression](./presentations/3.3-logistic-regression.pdf)
 		- [Logistic Regression Use Case](./presentations/3.4-logistic-regression-use.pdf)
+		- [Logistic Regression Regularisation](./presentations/3.5-logistic-regression-regularization.pdf)
 
 #### Credits:
 
