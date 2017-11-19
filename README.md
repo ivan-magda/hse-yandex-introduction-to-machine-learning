@@ -61,6 +61,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [Logistic Regression Regularisation](./presentations/3.5-logistic-regression-regularization.pdf)
 		- [Classification Metrics-1](./presentations/3.6-classification-metrics.pdf)
 		- [Classification Metrics-2](./presentations/3.7-classification-metrics.pdf)
+		- [Multiclass Classification](./presentations/3.8-multiclass-classification.pdf)
 
 #### Credits:
 
