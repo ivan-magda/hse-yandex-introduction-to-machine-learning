@@ -48,6 +48,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [The Problem of Overfitting](./presentations/2.9-problem-overfitting.pdf)
 	- Week 3:
 		- [SVM](./presentations/3.1-svm.pdf)
+		- [SVM: Nonlinear Case](./presentations/3.2-svm-nonlinear-case.pdf)
 
 #### Credits:
 
