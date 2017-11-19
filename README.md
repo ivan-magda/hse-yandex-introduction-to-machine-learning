@@ -46,6 +46,8 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [SAG Algorithm](./presentations/2.7-SAG-algorithm.pdf)
 		- [Method of Stochastic Gradient. Pros and Cons.](./presentations/2.8-stochastic-gradient-pros-cons.pdf)
 		- [The Problem of Overfitting](./presentations/2.9-problem-overfitting.pdf)
+	- Week 3:
+		- [SVM](./presentations/3.1-svm.pdf)
 
 #### Credits:
 
