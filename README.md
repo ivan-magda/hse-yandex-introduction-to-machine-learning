@@ -15,12 +15,15 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 	- [Assignment: Neighbours](./assignment-neighbours/solution.ipynb)
 	- [Assignment: Metric Tuning](./assignment-metric-tuning/solution.ipynb)
 	- [Assignment: Linear](./assignment-linear/solution.ipynb)
+- Week 3
+	- [Assignment: SVM](./assignment-svm/solution.ipynb)
 - Assignments:
 	- [Preprocessing data in Pandas](./assignment-pandas-data-preprocessing)
 	- [Assignment: The Importance of Signs](./assignment-importance)
 	- [Assignment: Neighbours](./assignment-neighbours)
 	- [Assignment: Metric Tuning](./assignment-metric-tuning)
 	- [Assignment: Linear](./assignment-linear)
+	- [Assignment: SVM](./assignment-svm/solution.ipynb)
 - Notes:
 	- [Lecture Notes](./NOTES.md)
 - Resources
