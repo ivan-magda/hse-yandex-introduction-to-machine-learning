@@ -18,6 +18,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 - Week 3
 	- [Assignment: SVM](./assignment-svm/solution.ipynb)
 	- [Assignment: SVM Texts](./assignment-svm-texts/solution.ipynb)
+	- [Assignment: Logistic](./assignment-logistic/solution.ipynb)
 - Assignments:
 	- [Preprocessing data in Pandas](./assignment-pandas-data-preprocessing)
 	- [Assignment: The Importance of Signs](./assignment-importance)
@@ -26,6 +27,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 	- [Assignment: Linear](./assignment-linear)
 	- [Assignment: SVM](./assignment-svm/solution.ipynb)
 	- [Assignment: SVM Texts](./assignment-svm-texts/solution.ipynb)
+	- [Assignment: Logistic](./assignment-logistic/solution.ipynb)
 - Notes:
 	- [Lecture Notes](./NOTES.md)
 - Resources
