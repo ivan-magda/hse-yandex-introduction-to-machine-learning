@@ -66,6 +66,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [Multiclass Classification](./presentations/3.8-multiclass-classification.pdf)
 	- Week 4:
 		- [The Solution to the Problem of Multivariate Linear Regression by Using Singular Value Decomposition](./presentations/4.1-multivariate-linear-regression-by-using-singular-value-decomposition.pdf)
+		- [Ridge Regression](./presentations/4.2-griebnievaia-rieghriessiia.pdf)
 
 #### Credits:
 
