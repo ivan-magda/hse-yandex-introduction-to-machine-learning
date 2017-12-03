@@ -71,6 +71,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [The Solution to the Problem of Multivariate Linear Regression by Using Singular Value Decomposition](./presentations/4.1-multivariate-linear-regression-by-using-singular-value-decomposition.pdf)
 		- [Ridge Regression](./presentations/4.2-griebnievaia-rieghriessiia.pdf)
 		- [LASSO](./presentations/4.3-mietod-lasso.pdf)
+		- [Principal Component Method](./presentations/mietod-ghlavnykh-komponient)
 
 #### Credits:
 
