@@ -20,6 +20,8 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 	- [Assignment: SVM Texts](./assignment-svm-texts/solution.ipynb)
 	- [Assignment: Logistic](./assignment-logistic/solution.ipynb)
 	- [Assignment: Metrics](./assignment-metrics/solution.ipynb)
+- Week 4
+	- [Assignment: Linear Regression](./assignment-linreg/solution.ipynb)
 - Assignments:
 	- [Preprocessing data in Pandas](./assignment-pandas-data-preprocessing)
 	- [Assignment: The Importance of Signs](./assignment-importance)
@@ -30,6 +32,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 	- [Assignment: SVM Texts](./assignment-svm-texts/solution.ipynb)
 	- [Assignment: Logistic](./assignment-logistic/solution.ipynb)
 	- [Assignment: Metrics](./assignment-metrics/solution.ipynb)
+	- [Assignment: Linear Regression](./assignment-linreg/solution.ipynb)
 - Notes:
 	- [Lecture Notes](./NOTES.md)
 - Resources
