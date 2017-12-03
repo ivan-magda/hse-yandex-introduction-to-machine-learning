@@ -57,9 +57,6 @@ __pycache__/
 # PyBuilder
 *target/
 
-# Zip files
-*.zip
-
 *.pickle
 *.ipynb_checkpoints/
 
