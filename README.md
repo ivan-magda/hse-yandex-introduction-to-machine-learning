@@ -23,6 +23,8 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 - Week 4
 	- [Assignment: Linear Regression](./assignment-linreg/solution.ipynb)
 	- [Assignment: Principal Component Analysis (PCA)](./assignment-pca/solution.ipynb)
+- Week 5
+	- [Assignment: Random Regression Forest](./assignment-forest/solution.ipynb)
 - Assignments:
 	- [Preprocessing data in Pandas](./assignment-pandas-data-preprocessing)
 	- [Assignment: The Importance of Signs](./assignment-importance)
@@ -35,6 +37,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 	- [Assignment: Metrics](./assignment-metrics/solution.ipynb)
 	- [Assignment: Linear Regression](./assignment-linreg/solution.ipynb)
 	- [Assignment: Principal Component Analysis, PCA](./assignment-pca/solution.ipynb)
+	- [Assignment: Random Regression Forest](./assignment-forest/solution.ipynb)
 - Notes:
 	- [Lecture Notes](./NOTES.md)
 - Resources
