@@ -137,6 +137,31 @@
 
 # Композиции алгоритмов
 
+<img src="https://github.com/vanyaland/hse-yandex-introduction-to-machine-learning/blob/master/res/ensemble-learners.png"
+width="634" height="356">
+
+#### Bootstrap aggregating bagging
+<img src="https://github.com/vanyaland/hse-yandex-introduction-to-machine-learning/blob/master/res/bootstrap-aggregating-bagging.png"
+width="636" height="358">
+
+#### Bagging example
+
+<img src="https://github.com/vanyaland/hse-yandex-introduction-to-machine-learning/blob/master/res/bagging-example-1.png"
+width="636" height="358">
+<img src="https://github.com/vanyaland/hse-yandex-introduction-to-machine-learning/blob/master/res/bagging-example-2.png"
+width="636" height="358">
+<img src="https://github.com/vanyaland/hse-yandex-introduction-to-machine-learning/blob/master/res/bagging-example-3.png"
+width="636" height="358">
+<img src="https://github.com/vanyaland/hse-yandex-introduction-to-machine-learning/blob/master/res/bagging-example-4.png"
+width="636" height="358">
+
+#### Boosting
+
+<img src="https://github.com/vanyaland/hse-yandex-introduction-to-machine-learning/blob/master/res/boosting-1.png"
+width="636" height="358">
+<img src="https://github.com/vanyaland/hse-yandex-introduction-to-machine-learning/blob/master/res/boosting-2.png"
+width="636" height="358">
+
 #### Bagging
  Рассмотрим один из самых известных методов повышения различности базовых алгоритмов.
  В этом методе базовые алгоритмы обучаются независимо друг от друга по случайным подвыборкам.
