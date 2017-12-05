@@ -76,6 +76,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [Principal Component Method](./presentations/mietod-ghlavnykh-komponient.pdf)
 	- Week 5:
 		- [Bagging, Random Forest](./presentations/5.1-beghghingh-i-sluchainyi-lies.pdf)
+		- [Gradient Boosting](./presentations/5.2-gradiientnyi-bustingh.pdf)
 
 #### Credits:
 
