@@ -83,6 +83,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [Bagging, Random Forest](./presentations/5.1-beghghingh-i-sluchainyi-lies.pdf)
 		- [Gradient Boosting](./presentations/5.2-gradiientnyi-bustingh.pdf)
 		- [Gradient Boosting: Add-on's](./presentations/5.3-gradiientnyi-bustingh-modifikatsii-i-evristiki.pdf)
+		- [Neural Nets: Introduction](./presentations/5.4-nieironnyie-sieti-vviedieniie.pdf)
 
 #### Credits:
 
