@@ -84,6 +84,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [Gradient Boosting](./presentations/5.2-gradiientnyi-bustingh.pdf)
 		- [Gradient Boosting: Add-on's](./presentations/5.3-gradiientnyi-bustingh-modifikatsii-i-evristiki.pdf)
 		- [Neural Nets: Introduction](./presentations/5.4-nieironnyie-sieti-vviedieniie.pdf)
+		- [Neural Nets: Back Propagation](./presentations/5.5-back-propagation.pdf)
 
 #### Credits:
 
