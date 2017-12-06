@@ -25,6 +25,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 	- [Assignment: Principal Component Analysis (PCA)](./assignment-pca/solution.ipynb)
 - Week 5
 	- [Assignment: Random Regression Forest](./assignment-forest/solution.ipynb)
+	- [Assignment: Gradient Boosting Over Decision Trees](./assignment-gbm/solution.ipynb)
 - Assignments:
 	- [Preprocessing data in Pandas](./assignment-pandas-data-preprocessing)
 	- [Assignment: The Importance of Signs](./assignment-importance)
@@ -38,6 +39,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 	- [Assignment: Linear Regression](./assignment-linreg/solution.ipynb)
 	- [Assignment: Principal Component Analysis, PCA](./assignment-pca/solution.ipynb)
 	- [Assignment: Random Regression Forest](./assignment-forest/solution.ipynb)
+	- [Assignment: Gradient Boosting Over Decision Trees](./assignment-gbm/solution.ipynb)
 - Notes:
 	- [Lecture Notes](./NOTES.md)
 - Resources
