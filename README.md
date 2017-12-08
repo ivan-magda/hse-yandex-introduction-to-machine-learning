@@ -89,6 +89,8 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [Neural Nets: Back Propagation](./presentations/5.5-back-propagation.pdf)
 		- [Neural Nets: Standart Heuristics 1](./presentations/5.6-nieironnyie-sieti-standartnyie-evristiki-1.pdf)
 		- [Neural Nets: Standart Heuristics 2](./presentations/5.7-nieironnyie-sieti-standartnyie-evristiki-2.pdf)
+	- Week 6:
+		- [Clasterization](./presentations/6.1-klastierizatsiia.pdf)
 
 #### Credits:
 
