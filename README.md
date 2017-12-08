@@ -6,7 +6,7 @@ This repository contains demo projects and assignments I have done during the [I
 
 If you are a current Introduction to Machine Learning student at Coursera who has not yet made a final submission of this assignment, then looking at this solution for any amount of time constitutes a violation of Coursera's Honor Code.
 
-#### Subdomains:
+#### Curriculum:
 - Week 1
 	- [NumPy: Vectors and Matrix](./numpy-vectors-matrix/solution.ipynb)
 	- [Assignment: Preprocessing data in Pandas](./assignment-pandas-data-preprocessing/solution.ipynb)
@@ -26,6 +26,8 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 - Week 5
 	- [Assignment: Random Regression Forest](./assignment-forest/solution.ipynb)
 	- [Assignment: Gradient Boosting Over Decision Trees](./assignment-gbm/solution.ipynb)
+	
+#### Subdomains:
 - Assignments:
 	- [Preprocessing data in Pandas](./assignment-pandas-data-preprocessing)
 	- [Assignment: The Importance of Signs](./assignment-importance)
