@@ -91,6 +91,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [Neural Nets: Standart Heuristics 2](./presentations/5.7-nieironnyie-sieti-standartnyie-evristiki-2.pdf)
 	- Week 6:
 		- [Clasterization](./presentations/6.1-klastierizatsiia.pdf)
+		- [Рierarchical Clasterization](./presentations/6.2-iierarkhichieskaia-klastierizatsiia.pdf)
 
 #### Credits:
 
