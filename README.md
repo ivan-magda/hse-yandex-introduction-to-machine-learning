@@ -26,6 +26,8 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 - Week 5
 	- [Assignment: Random Regression Forest](./assignment-forest/solution.ipynb)
 	- [Assignment: Gradient Boosting Over Decision Trees](./assignment-gbm/solution.ipynb)
+- Week 6
+	- [Assignment: Clustering](./assignment-clustering/solution.ipynb)
 	
 #### Subdomains:
 - Assignments:
@@ -42,6 +44,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 	- [Assignment: Principal Component Analysis, PCA](./assignment-pca/solution.ipynb)
 	- [Assignment: Random Regression Forest](./assignment-forest/solution.ipynb)
 	- [Assignment: Gradient Boosting Over Decision Trees](./assignment-gbm/solution.ipynb)
+	- [Assignment: Clustering](./assignment-clustering/solution.ipynb)
 - Notes:
 	- [Lecture Notes](./NOTES.md)
 - Resources
