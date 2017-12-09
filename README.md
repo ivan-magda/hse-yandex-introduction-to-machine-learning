@@ -97,6 +97,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [Рierarchical Clasterization](./presentations/6.2-iierarkhichieskaia-klastierizatsiia.pdf)
 		- [Non-linear Methods of Dimension Reduction](./presentations/6.3-nielinieinyie-mietody-ponizhieniia-razmiernosti.pdf)
 		- [Semi-Supervised Lerning](./presentations/6.4-postanovka-zadachi-chastichnogho-obuchieniia.pdf)
+		- [Cluster Assumption Semi-Supervised Learning](./presentations/6.5-primienieniie-klastierizatsii-v-rieshienii-zadach-chastichnogho-obuchieniia.pdf)
 
 #### Credits:
 
