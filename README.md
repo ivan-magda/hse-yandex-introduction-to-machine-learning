@@ -102,6 +102,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 	- Week 7:
 		- [Data Analysis Stages](./presentations/7.1-etapy-analiza-dannykh.pdf)
 		- [Numeric Features](./presentations/7.2-rabota-s-chislovymi-priznakami.pdf)
+		- [Categorial and Text Features](./presentations/7.3-rabota-s-katieghorial-nymi-i-tiekstovymi-priznakami.pdf)
 		- [Data Preparation](./presentations/7.4-priedobrabotka-dannykh.pdf)
 
 #### Credits:
