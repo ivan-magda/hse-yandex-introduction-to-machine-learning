@@ -99,6 +99,8 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [Semi-Supervised Lerning](./presentations/6.4-postanovka-zadachi-chastichnogho-obuchieniia.pdf)
 		- [Cluster Assumption Semi-Supervised Learning](./presentations/6.5-primienieniie-klastierizatsii-v-rieshienii-zadach-chastichnogho-obuchieniia.pdf)
 		- [Classification Assumption Semi-Supervised Learning](./presentations/6.6-primienieniie-klassifikatsii-v-rieshienii-zadach-chastichnogho-obuchieniia.pdf)
+	- Week 7:
+		- [Data Preparation](./presentations/7.4-priedobrabotka-dannykh.pdf)
 
 #### Credits:
 
