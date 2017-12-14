@@ -105,6 +105,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [Categorial and Text Features](./presentations/7.3-rabota-s-katieghorial-nymi-i-tiekstovymi-priznakami.pdf)
 		- [Data Preparation](./presentations/7.4-priedobrabotka-dannykh.pdf)
 		- [Measure Quality](./presentations/7.5-otsienivaniie-kachiestva.pdf)
+		- [Algorithms Overview](./presentations/7.6-obzor-alghoritmov.pdf)
 
 #### Credits:
 
