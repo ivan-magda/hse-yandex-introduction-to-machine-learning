@@ -28,6 +28,8 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 	- [Assignment: Gradient Boosting Over Decision Trees](./assignment-gbm/solution.ipynb)
 - Week 6
 	- [Assignment: Clustering](./assignment-clustering/solution.ipynb)
+- Week 7
+	- [Assignment: Final (Dota 2)](./assignment-final/solution.ipynb)
 	
 #### Subdomains:
 - Assignments:
@@ -45,6 +47,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 	- [Assignment: Random Regression Forest](./assignment-forest/solution.ipynb)
 	- [Assignment: Gradient Boosting Over Decision Trees](./assignment-gbm/solution.ipynb)
 	- [Assignment: Clustering](./assignment-clustering/solution.ipynb)
+	- [Assignment: Final (Dota 2)](./assignment-final/solution.ipynb)
 - Notes:
 	- [Lecture Notes](./NOTES.md)
 - Resources
