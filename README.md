@@ -101,6 +101,7 @@ If you are a current Introduction to Machine Learning student at Coursera who ha
 		- [Classification Assumption Semi-Supervised Learning](./presentations/6.6-primienieniie-klassifikatsii-v-rieshienii-zadach-chastichnogho-obuchieniia.pdf)
 	- Week 7:
 		- [Data Analysis Stages](./presentations/7.1-etapy-analiza-dannykh.pdf)
+		- [Numeric Features](./presentations/7.2-rabota-s-chislovymi-priznakami.pdf)
 		- [Data Preparation](./presentations/7.4-priedobrabotka-dannykh.pdf)
 
 #### Credits:
